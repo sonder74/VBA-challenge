@@ -1,6 +1,6 @@
 ## README: VBA-challenge
 <hr>
-Table of Contents:
+<strong>Table of Contents:</strong>
 <br>
 <br>
 
