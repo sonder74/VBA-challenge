@@ -1,5 +1,12 @@
 # VBA-challenge
-<!-- TOC -->autoauto- [VBA-challenge](#vba-challenge)auto    - [Section 1](#section-1)auto    - [Section 2](#section-2)auto    - [Section 3](#section-3)autoauto<!-- /TOC -->
-## Section 1
-## Section 2
-## Section 3
+### Table of Contents:
+<!-- TOC -->
+1. [Section A](#vba-challenge)
+   - [Subsection a](#subsection-a)
+   - [Subsection b](#subsection-b)
+2. [Section B](#section-a)
+3. [Section C](#section-b)
+4. [Section D](#section-c)
+
+<!-- /TOC -->
+<hr>
